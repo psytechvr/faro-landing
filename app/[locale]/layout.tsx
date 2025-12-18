@@ -48,13 +48,9 @@ export default async function LocaleLayout({
   const messages = await getMessages({ locale })
 
   return (
-    <html lang={locale}>
-      <body className={`font-sans antialiased`}>
-        <NextIntlClientProvider locale={locale} messages={messages}>
-          {children}
-        </NextIntlClientProvider>
-        <Analytics />
-      </body>
-    </html>
+    <NextIntlClientProvider locale={locale} messages={messages}>
+      {children}
+      <Analytics />
+    </NextIntlClientProvider>
   )
 }
