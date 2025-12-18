@@ -1,15 +1,10 @@
-import { getRequestConfig } from "next-intl/server"
+import {getRequestConfig} from "next-intl/server"
 
-export default getRequestConfig(async ({ requestLocale }) => {
-  let locale = requestLocale || "en"
-
-  // Handle case where locale might still be a Promise
-  if (typeof locale !== "string") {
-    locale = "en"
-  }
+export default getRequestConfig(async ({requestLocale}) => {
+  const locale = (await requestLocale) ?? "en"
 
   return {
     locale,
-    messages: (await import(`../messages/${locale}.json`)).default,
+    messages: (await import(`../messages/${locale}.json`)).default
   }
 })
