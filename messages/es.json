@@ -1,0 +1,147 @@
+{
+  "header": {
+    "features": "Características",
+    "pricing": "Precios",
+    "docs": "Documentación",
+    "enterprise": "Empresarial",
+    "signIn": "Iniciar Sesión",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "assess": "Evalúa.",
+    "guide": "Guía.",
+    "illuminate": "Ilumina.",
+    "description": "Plataforma de evaluación de nivel empresarial impulsada por IA. Crea, vigila y califica evaluaciones automáticamente con verificación de identidad y seguridad avanzadas.",
+    "cta": "Contáctenos para una Prueba Gratuita",
+    "demo": "Ver Demostración",
+    "noCard": "Sin tarjeta de crédito requerida. Acceso a todas las características principales."
+  },
+  "features": {
+    "title": "Características Poderosas",
+    "description": "Todo lo que necesitas para crear, administrar y analizar evaluaciones a escala",
+    "aiPowered": {
+      "title": "Evaluación Impulsada por IA",
+      "description": "Genera y califica automáticamente evaluaciones utilizando modelos de IA avanzados. Reduce el tiempo de calificación hasta en un 100%."
+    },
+    "proctoring": {
+      "title": "Proctoreo Avanzado",
+      "description": "Monitoreo en tiempo real con detección de rostro, captura de pantalla y análisis de comportamiento para prevenir engaños."
+    },
+    "identity": {
+      "title": "Verificación de Identidad",
+      "description": "La autenticación biométrica y verificación de identidad garantizan la autenticidad del examinado e integridad del examen."
+    },
+    "results": {
+      "title": "Resultados Instantáneos",
+      "description": "Obtén retroalimentación en tiempo real y resultados calificados automáticamente. Ve las puntuaciones inmediatamente al finalizar."
+    },
+    "analytics": {
+      "title": "Análisis Avanzado",
+      "description": "Informes completos sobre métricas de rendimiento, dificultad de preguntas e información de candidatos."
+    },
+    "security": {
+      "title": "Seguridad Empresarial",
+      "description": "Cifrado de nivel bancario, cumplimiento de HIPAA y certificación SOC 2 Tipo II para evaluaciones sensibles."
+    }
+  },
+  "stats": {
+    "activeUsers": "Usuarios Activos",
+    "assessmentsTaken": "Evaluaciones Realizadas",
+    "uptime": "SLA de Disponibilidad",
+    "clients": "Clientes Empresariales"
+  },
+  "pricing": {
+    "title": "Precios Simples y Transparentes",
+    "description": "Elige el plan que se adapte a las necesidades de tu organización",
+    "mostPopular": "Más Popular",
+    "starter": {
+      "name": "Inicial",
+      "description": "Para pequeños equipos y departamentos",
+      "price": "$10",
+      "period": "/mes",
+      "cta": "Comenzar",
+      "features": [
+        "100 créditos/mes",
+        "Bloques de Evaluación Básica Gratuitos (Opción Múltiple y Multi-selección)",
+        "Generación Gratuita de Evaluaciones con IA para cualquier dominio de habilidad",
+        "Calificación con IA",
+        "Proctoreo con IA",
+        "Soporte por correo electrónico",
+        "Asientos de usuario ilimitados"
+      ]
+    },
+    "basic": {
+      "name": "Básico",
+      "description": "Para organizaciones en crecimiento",
+      "price": "$50",
+      "period": "/mes",
+      "cta": "Comenzar",
+      "features": [
+        "500 créditos/mes",
+        "Bloques de Evaluación Básica Gratuitos (Opción Múltiple y Multi-selección)",
+        "Generación Gratuita de Evaluaciones con IA para cualquier dominio de habilidad",
+        "Calificación Avanzada con IA",
+        "Proctoreo Avanzado y análisis",
+        "Soporte prioritario",
+        "Asientos de usuario ilimitados"
+      ]
+    },
+    "pro": {
+      "name": "Profesional",
+      "description": "Para implementación a gran escala",
+      "price": "$200",
+      "period": "/mes",
+      "cta": "Comenzar",
+      "features": [
+        "2000 créditos/mes",
+        "Bloques de Evaluación Básica Gratuitos (Opción Múltiple y Multi-selección)",
+        "Generación Gratuita de Evaluaciones con IA para cualquier dominio de habilidad",
+        "Capacidades completas de IA",
+        "Características de seguridad avanzadas",
+        "Soporte dedicado",
+        "Asientos de usuario ilimitados"
+      ]
+    },
+    "enterprise": {
+      "name": "Empresarial",
+      "description": "Para organizaciones grandes o en expansión",
+      "price": "Contactar Ventas",
+      "period": "/mes",
+      "cta": "Comenzar",
+      "features": [
+        "Bloques de Evaluación Básica Gratuitos (Opción Múltiple y Multi-selección)",
+        "Calificación Avanzada con IA",
+        "Proctoreo Avanzado y análisis",
+        "Soporte prioritario",
+        "25 asientos de usuario",
+        "Marca personalizada",
+        "Acceso a API"
+      ]
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Transformar tu Proceso de Evaluación?",
+    "description": "Únete a 150+ organizaciones empresariales que utilizan Faro para optimizar evaluaciones y mejorar resultados",
+    "trial": "Inicia tu Prueba Gratuita",
+    "demo": "Programa una Demostración"
+  },
+  "footer": {
+    "description": "Plataforma de evaluación empresarial impulsada por IA.",
+    "product": "Producto",
+    "company": "Empresa",
+    "legal": "Legal",
+    "features": "Características",
+    "pricing": "Precios",
+    "security": "Seguridad",
+    "about": "Acerca de",
+    "blog": "Blog",
+    "careers": "Carreras",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "compliance": "Cumplimiento",
+    "copyright": "2025 Faro. Todos los derechos reservados.",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  }
+}

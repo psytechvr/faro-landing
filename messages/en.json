@@ -1,0 +1,147 @@
+{
+  "header": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "enterprise": "Enterprise",
+    "signIn": "Sign In",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "assess": "Assess.",
+    "guide": "Guide.",
+    "illuminate": "Illuminate.",
+    "description": "Enterprise-grade assessment platform powered by AI. Create, proctor, and auto-grade assessments with advanced identity verification and security.",
+    "cta": "Contact Us for a Free Trial",
+    "demo": "View Demo",
+    "noCard": "No credit card required. Access to all core features."
+  },
+  "features": {
+    "title": "Powerful Features",
+    "description": "Everything you need to create, administer, and analyze assessments at scale",
+    "aiPowered": {
+      "title": "AI-Powered Assessment",
+      "description": "Automatically generate and grade assessments using advanced AI models. Reduce grading time by up to 100%."
+    },
+    "proctoring": {
+      "title": "Advanced Proctoring",
+      "description": "Real-time monitoring with face detection, screen capture, and behavioral analysis to prevent cheating."
+    },
+    "identity": {
+      "title": "Identity Verification",
+      "description": "Biometric authentication and ID verification ensure test-taker authenticity and exam integrity."
+    },
+    "results": {
+      "title": "Instant Results",
+      "description": "Get real-time feedback and auto-graded results. See scores immediately upon completion."
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Comprehensive reporting on performance metrics, question difficulty, and candidate insights."
+    },
+    "security": {
+      "title": "Enterprise Security",
+      "description": "Bank-level encryption, HIPAA compliance, and SOC 2 Type II certification for sensitive assessments."
+    }
+  },
+  "stats": {
+    "activeUsers": "Active Users",
+    "assessmentsTaken": "Assessments Taken",
+    "uptime": "Uptime SLA",
+    "clients": "Enterprise Clients"
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "description": "Choose the plan that fits your organization's needs",
+    "mostPopular": "Most Popular",
+    "starter": {
+      "name": "Starter",
+      "description": "For small teams and departments",
+      "price": "$10",
+      "period": "/month",
+      "cta": "Get Started",
+      "features": [
+        "100 credits/month",
+        "Free Basic Assessment Blocks (Multiple-choice & Multi-select)",
+        "Free AI Assessment Generation for any skill domain",
+        "AI grading",
+        "AI proctoring",
+        "Email support",
+        "Unlimited user seats"
+      ]
+    },
+    "basic": {
+      "name": "Basic",
+      "description": "For growing organizations",
+      "price": "$50",
+      "period": "/month",
+      "cta": "Get Started",
+      "features": [
+        "500 credits/month",
+        "Free Basic Assessment Blocks (Multiple-choice & Multi-select)",
+        "Free AI Assessment Generation for any skill domain",
+        "Advanced AI grading",
+        "Advanced proctoring & analytics",
+        "Priority support",
+        "Unlimited user seats"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "For large-scale deployment",
+      "price": "$200",
+      "period": "/month",
+      "cta": "Get Started",
+      "features": [
+        "2000 credits/month",
+        "Free Basic Assessment Blocks (Multiple-choice & Multi-select)",
+        "Free AI Assessment Generation for any skill domain",
+        "Full AI capabilities",
+        "Advanced security features",
+        "Dedicated support",
+        "Unlimited user seats"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For large or expanding organizations",
+      "price": "Contact Sales",
+      "period": "/month",
+      "cta": "Get Started",
+      "features": [
+        "Free Basic Assessment Blocks (Multiple-choice & Multi-select)",
+        "Advanced AI grading",
+        "Advanced proctoring & analytics",
+        "Priority support",
+        "25 user seats",
+        "Custom branding",
+        "API access"
+      ]
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Assessment Process?",
+    "description": "Join 150+ enterprise organizations using Faro to streamline assessments and improve outcomes",
+    "trial": "Start Your Free Trial",
+    "demo": "Schedule a Demo"
+  },
+  "footer": {
+    "description": "Enterprise assessment platform powered by AI.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "features": "Features",
+    "pricing": "Pricing",
+    "security": "Security",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "compliance": "Compliance",
+    "copyright": "2025 Faro. All rights reserved.",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  }
+}
