@@ -79,9 +79,11 @@ export default function Header() {
             )}
           </div>
 
-          <Button variant="ghost" size="sm">
-            {t("signIn")}
-          </Button>
+          <a href="https://dashboard.faroassessments.com">
+            <Button variant="ghost" size="sm">
+              {t("signIn")}
+            </Button>
+          </a>
           <Button size="sm">{t("getStarted")}</Button>
         </div>
       </div>
